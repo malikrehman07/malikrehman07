@@ -10,12 +10,6 @@ Clean architecture, strong fundamentals, and reliable delivery define my work.
   <img src="https://komarev.com/ghpvc/?username=malikrehman07&label=Profile%20views&color=0e75b6&style=flat" alt="malikrehman07" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api?username=malikrehman07&show_icons=true&theme=radical" alt="GitHub Stats">
-  </a>
-</p>
-
 - 🔭 I build end-to-end web applications with modern UI, secure authentication, and scalable backend systems  
 - 🌱 Currently deepening my expertise in **Next.js, PostgreSQL, and AWS**  
 - 👨‍💻 All of my projects are available at **https://malikrehman.xyz**  
@@ -105,4 +99,10 @@ Clean architecture, strong fundamentals, and reliable delivery define my work.
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right:10px; margin-bottom:10px"/>
 </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-stats.vercel.app/api?username=malikrehman07&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
 </p>
