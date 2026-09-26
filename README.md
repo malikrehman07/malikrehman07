@@ -12,8 +12,8 @@ Clean architecture, strong fundamentals, and reliable delivery define my work.
 
 - 🔭 I build end-to-end web applications with modern UI, secure authentication, and scalable backend systems  
 - 🌱 Currently deepening my expertise in **Next.js, PostgreSQL, and AWS**  
-- 👨‍💻 All of my projects are available at **https://malikrehman.xyz**  
-- 📫 Reach me directly at **developer@malikrehman.xyz**  
+- 👨‍💻 All of my projects are available at **https://iamrehman.online**  
+- 📫 Reach me directly at **developer@iamrehman.online**  
 - ⚡ Fun fact: I genuinely enjoy simplifying complex systems into clean, usable solutions  
 
 <h3 align="left">Connect with me</h3>
