@@ -100,9 +100,3 @@ Clean architecture, strong fundamentals, and reliable delivery define my work.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right:10px; margin-bottom:10px"/>
 </a>
 </p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api?username=malikrehman07&show_icons=true&theme=radical" alt="GitHub Stats">
-  </a>
-</p>
