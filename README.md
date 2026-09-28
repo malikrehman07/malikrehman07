@@ -6,10 +6,6 @@ I design and build scalable, production-ready web applications that solve real b
 Clean architecture, strong fundamentals, and reliable delivery define my work.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=malikrehman07&label=Profile%20views&color=0e75b6&style=flat" alt="malikrehman07" />
-</p>
-
 - 🔭 I build end-to-end web applications with modern UI, secure authentication, and scalable backend systems  
 - 🌱 Currently deepening my expertise in **Next.js, PostgreSQL, and AWS**  
 - 👨‍💻 All of my projects are available at **https://iamrehman.online**  
